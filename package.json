@@ -1,0 +1,27 @@
+{
+  "name": "sixpack",
+  "version": "1.0.0",
+  "description": "package es6 js for node or web use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "package",
+    "webpack",
+    "compile",
+    "browserify",
+    "build",
+    "module"
+  ],
+  "bin": {
+    "sixpack": "./bin/sixpack"
+  },
+  "author": "Josh Perez <josh@goatslacker.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^7.0.2",
+    "derequire": "^1.2.0"
+  }
+}

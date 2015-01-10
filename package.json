@@ -1,6 +1,6 @@
 {
   "name": "sixpack",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "package es6 js for node or web use",
   "main": "index.js",
   "scripts": {

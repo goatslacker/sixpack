@@ -21,8 +21,8 @@
   "author": "Josh Perez <josh@goatslacker.com>",
   "license": "MIT",
   "dependencies": {
-    "6to5": "^2.9.4",
-    "6to5ify": "^2.0.0",
+    "6to5": "^2.13.5",
+    "6to5ify": "^3.1.2",
     "browserify": "^7.0.2",
     "derequire": "^1.2.0"
   }
